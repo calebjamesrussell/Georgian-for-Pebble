@@ -1,7 +1,5 @@
 # Georgian-for-Pebble
-Georgian language pack for Pebble smartwatch, generated from Noto Sans Georgian
-
-Georgian glyphs generated from Noto Sans Georgian under SIL OFL.
+Georgian language pack for Pebble smartwatch, generated from Noto Sans Georgian font under SIL OFL.
 
 source font from Google: https://fonts.google.com/noto/specimen/Noto+Sans+Georgian?preview.script=Geor
 
